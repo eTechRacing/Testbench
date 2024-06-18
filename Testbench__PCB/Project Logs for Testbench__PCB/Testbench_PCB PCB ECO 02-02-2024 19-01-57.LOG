@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Master Member=J407
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Add Pin To Net: Unknown Pin: Pin J314-1
+Add Pin To Net: Unknown Pin: Pin J314-2
+Add Pin To Net: Unknown Pin: Pin J314-3
+Add Pin To Net: Unknown Pin: Pin J314-4
+Add Pin To Net: Unknown Pin: Pin J315-1
+Add Pin To Net: Unknown Pin: Pin J315-2
+Add Pin To Net: Unknown Pin: Pin J315-3
+Add Pin To Net: Unknown Pin: Pin J315-4
+Add Net: Net with name "SC_IN_BSPD" already exists
+Add Net: Net with name "SC_OUT_BSPD" already exists
+Added Member To Class: ClassName=ECUs Member=Component J203_ECUs (J203) 1053101112
+Added Member To Class: ClassName=TS Member=Component J211_TS (J211) 1053101112
+Added Member To Class: ClassName=Master Member=Component J302 1053091204
+Added Member To Class: ClassName=Master Member=Component J306 436500215
+Add Class Member: Failed to add class member : Component J314 1053091204
+Add Class Member: Failed to add class member : Component J315 1053091204
+Added Member To Class: ClassName=Extras Member=Component J410 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J423 J_NanoFit_2x2
+Added Member To Class: ClassName=Extras Member=Component J424 J_NanoFit_2x2
+Added Member To Class: ClassName=Extras Member=Component R* 3296W-1-103LF

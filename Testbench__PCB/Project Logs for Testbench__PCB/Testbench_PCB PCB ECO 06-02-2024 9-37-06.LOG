@@ -1,0 +1,29 @@
+Added Component: Designator=J214(J_NanoFit_2x6_V)
+Added Pin To Net: NetName=JFS21 Pin=J211-1
+Added Pin To Net: NetName=JFS22 Pin=J211-2
+Added Pin To Net: NetName=JFS23 Pin=J211-3
+Added Pin To Net: NetName=JFS24 Pin=J211-4
+Added Pin To Net: NetName=JFS25 Pin=J211-5
+Added Pin To Net: NetName=JFS26 Pin=J211-6
+Added Pin To Net: NetName=JFS27 Pin=J211-7
+Added Pin To Net: NetName=JFS28 Pin=J211-8
+Added Pin To Net: NetName=JFS29 Pin=J211-9
+Added Pin To Net: NetName=JF210 Pin=J211-10
+Added Pin To Net: NetName=JFS211 Pin=J211-11
+Added Pin To Net: NetName=JFS212 Pin=J211-12
+Added Pin To Net: NetName=JRS21 Pin=J214-1
+Added Pin To Net: NetName=JRS22 Pin=J214-2
+Added Pin To Net: NetName=JRS23 Pin=J214-3
+Added Pin To Net: NetName=JRS24 Pin=J214-4
+Added Pin To Net: NetName=JRS25 Pin=J214-5
+Added Pin To Net: NetName=JRS26 Pin=J214-6
+Added Pin To Net: NetName=JRS27 Pin=J214-7
+Added Pin To Net: NetName=JRS28 Pin=J214-8
+Added Pin To Net: NetName=JRS29 Pin=J214-9
+Added Pin To Net: NetName=JRS210 Pin=J214-10
+Added Pin To Net: NetName=JRS211 Pin=J214-11
+Added Pin To Net: NetName=JRS212 Pin=J214-12
+Added Pin To Net: NetName=+12 Pin=J302-1
+Added Member To Class: ClassName=ECUs Member=Component J214 1053101112
+Added Member To Class: ClassName=Master Member=Component J306 436500215
+Added Member To Class: ClassName=Extras Member=Component J410 J_Nanofit_1x2_V

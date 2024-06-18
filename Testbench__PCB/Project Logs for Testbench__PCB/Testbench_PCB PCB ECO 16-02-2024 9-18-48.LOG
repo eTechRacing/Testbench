@@ -1,0 +1,4 @@
+Added Differential Pair: Name=CAN1
+Added Differential Pair: Name=CAN2
+Added Member To Class: ClassName=ECUs Member=Component J201 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J202 1053101112

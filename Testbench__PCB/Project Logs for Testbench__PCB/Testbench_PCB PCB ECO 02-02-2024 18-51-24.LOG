@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=CAN1_H Pin=J?-1
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=CAN1_H Pin=J?-1
+Added Pin To Net: NetName=CAN1_L Pin=J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin J?-4
+Added Pin To Net: NetName=TS_OFF Pin=J?-11
+Added Pin To Net: NetName=TS_OFF Pin=J?-11
+Add Net: Net with name "SC_IN_BSPD" already exists
+Add Net: Net with name "SC_OUT_BSPD" already exists
+Added Member To Class: ClassName=Extras Member=Component J*? 618009231221
+Added Member To Class: ClassName=Extras Member=Component J*? 618009231221
+Added Member To Class: ClassName=Extras Member=Component J*? 436500215
+Added Member To Class: ClassName=Extras Member=Component J*? 618009231221
+Added Member To Class: ClassName=Extras Member=Component J*? 618009231221
+Added Member To Class: ClassName=Extras Member=Component J*? J_NanoFit_2x2
+Added Member To Class: ClassName=Master Member=Component J*? 61300211121
+Added Member To Class: ClassName=Master Member=Component J*? 61300211121
+Added Member To Class: ClassName=Master Member=Component J*? J_Nanofit_1x2_V
+Added Member To Class: ClassName=Master Member=Component J*? J_Nanofit_1x2_V
+Added Member To Class: ClassName=Master Member=Component J*? J_Nanofit_1x2_V
+Added Member To Class: ClassName=Master Member=Component J*? J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J* J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J* 436500215
+Added Member To Class: ClassName=Extras Member=Component J* 618009231221
+Added Member To Class: ClassName=Extras Member=Component J* J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J* J_NanoFit_2x2
+Added Member To Class: ClassName=Extras Member=Component J* 436500215
+Added Member To Class: ClassName=Extras Member=Component J* J_NanoFit_2x2
+Added Member To Class: ClassName=Master Member=Component J* 61300211121
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J?_ECUs (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=TS Member=Component J?_TS (J?) 1053101112
+Added Member To Class: ClassName=Extras Member=Component J? Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J? Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J? Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J? Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J? 436500400
+Added Member To Class: ClassName=Extras Member=Component J? Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J? Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J? Molex Micro Fit 2x3
+Added Member To Class: ClassName=Master Member=Component J? 1053091204
+Added Member To Class: ClassName=Master Member=Component J? 436500215
+Added Member To Class: ClassName=Master Member=Component J? 1053101116
+Added Member To Class: ClassName=Master Member=Component J? 1053091204
+Added Member To Class: ClassName=Master Member=Component J? 1053101116
+Added Member To Class: ClassName=Master Member=Component J? 1053101116
+Added Member To Class: ClassName=Extras Member=Component R* 3296W-1-103LF

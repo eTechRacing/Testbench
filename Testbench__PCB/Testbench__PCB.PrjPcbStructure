@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Testbench__PCB.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Testbench__PCB.SchDoc|Designator=ECUs|SchDesignator=ECUs|FileName=ECUs.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ECUs.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Testbench__PCB.SchDoc|Designator=Extras|SchDesignator=Extras|FileName=Extras.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Extras.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Testbench__PCB.SchDoc|Designator=Master|SchDesignator=Master|FileName=Master.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Master.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Testbench__PCB.SchDoc|Designator=TS|SchDesignator=TS|FileName=TS.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=TS.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

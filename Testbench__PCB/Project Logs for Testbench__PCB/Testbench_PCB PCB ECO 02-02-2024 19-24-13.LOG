@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=+3.3 Pin=J201_TS-1
+Removed Pin From Net: NetName=+3.3 Pin=J205_TS-1
+Removed Pin From Net: NetName=+3.3 Pin=J209_TS-1
+Change Component Designator: OldDesignator=J201_ECUs NewDesignator=J201
+Change Component Designator: OldDesignator=J202_ECUs NewDesignator=J202
+Change Component Designator: OldDesignator=J203_ECUs NewDesignator=J203
+Change Component Designator: OldDesignator=J204_ECUs NewDesignator=J204
+Change Component Designator: OldDesignator=J205_ECUs NewDesignator=J205
+Change Component Designator: OldDesignator=J206_ECUs NewDesignator=J206
+Change Component Designator: OldDesignator=J207_ECUs NewDesignator=J207
+Change Component Designator: OldDesignator=J208_ECUs NewDesignator=J208
+Change Component Designator: OldDesignator=J209_ECUs NewDesignator=J209
+Change Component Designator: OldDesignator=J210_ECUs NewDesignator=J210
+Change Component Designator: OldDesignator=J211_ECUs NewDesignator=J211
+Change Component Designator: OldDesignator=J212_ECUs NewDesignator=J212
+Change Component Designator: OldDesignator=J213_ECUs NewDesignator=J213
+Change Net Name : Old Net Name=I2C1_SDA_ECUs New Net Name=I2C1_SDA
+Change Net Name : Old Net Name=I2C2_SCL_ECUs New Net Name=I2C2_SCL
+Change Net Name : Old Net Name=I2C2_SDA_ECUs New Net Name=I2C2_SDA
+Change Net Name : Old Net Name=ISC1_SCL_ECUs New Net Name=ISC1_SCL
+Change Net Name : Old Net Name=JF210_ECUs New Net Name=JF210
+Change Net Name : Old Net Name=JFE1_ECUs New Net Name=JFE1
+Change Net Name : Old Net Name=JFE2_ECUs New Net Name=JFE2
+Change Net Name : Old Net Name=JFE3_ECUs New Net Name=JFE3
+Change Net Name : Old Net Name=JFE4_ECUs New Net Name=JFE4
+Change Net Name : Old Net Name=JFE5_ECUs New Net Name=JFE5
+Change Net Name : Old Net Name=JFE6_ECUs New Net Name=JFE6
+Change Net Name : Old Net Name=JFE7_ECUs New Net Name=JFE7
+Change Net Name : Old Net Name=JFE8_ECUs New Net Name=JFE8
+Change Net Name : Old Net Name=JFE9_ECUs New Net Name=JFE9
+Change Net Name : Old Net Name=JFE10_ECUs New Net Name=JFE10
+Change Net Name : Old Net Name=JFE11_ECUs New Net Name=JFE11
+Change Net Name : Old Net Name=JFE12_ECUs New Net Name=JFE12
+Change Net Name : Old Net Name=JFRS21_ECUs New Net Name=JFRS21
+Change Net Name : Old Net Name=JFRS22_ECUs New Net Name=JFRS22
+Change Net Name : Old Net Name=JFRS23_ECUs New Net Name=JFRS23
+Change Net Name : Old Net Name=JFRS24_ECUs New Net Name=JFRS24
+Change Net Name : Old Net Name=JFRS25_ECUs New Net Name=JFRS25
+Change Net Name : Old Net Name=JFRS26_ECUs New Net Name=JFRS26
+Change Net Name : Old Net Name=JFRS27_ECUs New Net Name=JFRS27
+Change Net Name : Old Net Name=JFRS28_ECUs New Net Name=JFRS28
+Change Net Name : Old Net Name=JFRS29_ECUs New Net Name=JFRS29
+Change Net Name : Old Net Name=JFRS210_ECUs New Net Name=JFRS210
+Change Net Name : Old Net Name=JFRS211_ECUs New Net Name=JFRS211
+Change Net Name : Old Net Name=JFRS212_ECUs New Net Name=JFRS212
+Change Net Name : Old Net Name=JFS11_ECUs New Net Name=JFS11
+Change Net Name : Old Net Name=JFS12_ECUs New Net Name=JFS12
+Change Net Name : Old Net Name=JFS13_ECUs New Net Name=JFS13
+Change Net Name : Old Net Name=JFS14_ECUs New Net Name=JFS14
+Change Net Name : Old Net Name=JFS15_ECUs New Net Name=JFS15
+Change Net Name : Old Net Name=JFS16_ECUs New Net Name=JFS16
+Change Net Name : Old Net Name=JFS17_ECUs New Net Name=JFS17
+Change Net Name : Old Net Name=JFS18_ECUs New Net Name=JFS18
+Change Net Name : Old Net Name=JFS19_ECUs New Net Name=JFS19
+Change Net Name : Old Net Name=JFS21_ECUs New Net Name=JFS21
+Change Net Name : Old Net Name=JFS22_ECUs New Net Name=JFS22
+Change Net Name : Old Net Name=JFS23_ECUs New Net Name=JFS23
+Change Net Name : Old Net Name=JFS24_ECUs New Net Name=JFS24
+Change Net Name : Old Net Name=JFS25_ECUs New Net Name=JFS25
+Change Net Name : Old Net Name=JFS26_ECUs New Net Name=JFS26
+Change Net Name : Old Net Name=JFS27_ECUs New Net Name=JFS27
+Change Net Name : Old Net Name=JFS28_ECUs New Net Name=JFS28
+Change Net Name : Old Net Name=JFS29_ECUs New Net Name=JFS29
+Change Net Name : Old Net Name=JFS110_ECUs New Net Name=JFS110
+Change Net Name : Old Net Name=JFS111_ECUs New Net Name=JFS111
+Change Net Name : Old Net Name=JFS112_ECUs New Net Name=JFS112
+Change Net Name : Old Net Name=JFS211_ECUs New Net Name=JFS211
+Change Net Name : Old Net Name=JFS212_ECUs New Net Name=JFS212
+Change Net Name : Old Net Name=JRP1_ECUs New Net Name=JRP1
+Change Net Name : Old Net Name=JRP2_ECUs New Net Name=JRP2
+Change Net Name : Old Net Name=JRP3_ECUs New Net Name=JRP3
+Change Net Name : Old Net Name=JRP4_ECUs New Net Name=JRP4
+Change Net Name : Old Net Name=JRP5_ECUs New Net Name=JRP5
+Change Net Name : Old Net Name=JRP6_ECUs New Net Name=JRP6
+Change Net Name : Old Net Name=JRP7_ECUs New Net Name=JRP7
+Change Net Name : Old Net Name=JRP8_ECUs New Net Name=JRP8
+Change Net Name : Old Net Name=JRP9_ECUs New Net Name=JRP9
+Change Net Name : Old Net Name=JRP10_ECUs New Net Name=JRP10
+Change Net Name : Old Net Name=JRP11_ECUs New Net Name=JRP11
+Change Net Name : Old Net Name=JRP12_ECUs New Net Name=JRP12
+Change Net Name : Old Net Name=JRS11_ECUs New Net Name=JRS11
+Change Net Name : Old Net Name=JRS12_ECUs New Net Name=JRS12
+Change Net Name : Old Net Name=JRS13_ECUs New Net Name=JRS13
+Change Net Name : Old Net Name=JRS14_ECUs New Net Name=JRS14
+Change Net Name : Old Net Name=JRS15_ECUs New Net Name=JRS15
+Change Net Name : Old Net Name=JRS16_ECUs New Net Name=JRS16
+Change Net Name : Old Net Name=JRS17_ECUs New Net Name=JRS17
+Change Net Name : Old Net Name=JRS18_ECUs New Net Name=JRS18
+Change Net Name : Old Net Name=JRS19_ECUs New Net Name=JRS19
+Change Net Name : Old Net Name=JRS21_ECUs New Net Name=JRS21
+Change Net Name : Old Net Name=JRS22_ECUs New Net Name=JRS22
+Change Net Name : Old Net Name=JRS23_ECUs New Net Name=JRS23
+Change Net Name : Old Net Name=JRS24_ECUs New Net Name=JRS24
+Change Net Name : Old Net Name=JRS25_ECUs New Net Name=JRS25
+Change Net Name : Old Net Name=JRS26_ECUs New Net Name=JRS26
+Change Net Name : Old Net Name=JRS27_ECUs New Net Name=JRS27
+Change Net Name : Old Net Name=JRS28_ECUs New Net Name=JRS28
+Change Net Name : Old Net Name=JRS29_ECUs New Net Name=JRS29
+Change Net Name : Old Net Name=JRS110_ECUs New Net Name=JRS110
+Change Net Name : Old Net Name=JRS111_ECUs New Net Name=JRS111
+Change Net Name : Old Net Name=JRS112_ECUs New Net Name=JRS112
+Change Net Name : Old Net Name=JRS210_ECUs New Net Name=JRS210
+Change Net Name : Old Net Name=JRS211_ECUs New Net Name=JRS211
+Change Net Name : Old Net Name=JRS212_ECUs New Net Name=JRS212
+Change Net Name : Old Net Name=SPI1_MISO_ECUs New Net Name=SPI1_MISO
+Change Net Name : Old Net Name=SPI1_MOSI_ECUs New Net Name=SPI1_MOSI
+Change Net Name : Old Net Name=SPI1_SCK_ECUs New Net Name=SPI1_SCK
+Change Net Name : Old Net Name=USART3_CK_ECUs New Net Name=USART3_CK
+Change Net Name : Old Net Name=USART3_RX_ECUs New Net Name=USART3_RX
+Change Net Name : Old Net Name=USART3_TX_ECUs New Net Name=USART3_TX
+Added Member To Class: ClassName=Master Member=Component J306 436500215
+Added Member To Class: ClassName=Extras Member=Component J410 J_Nanofit_1x2_V

@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=CAN1_H Pin=J?-1
+Removed Pin From Net: NetName=CAN1_L Pin=J?-2
+Removed Member From Class: ClassName=Master Member=J*?
+Removed Member From Class: ClassName=Master Member=J*
+Removed Member From Class: ClassName=Testbench__PCB Member=J*
+Removed Member From Class: ClassName=Extras Member=J?
+Change Component Designator: OldDesignator=J* NewDesignator=J101
+Change Component Designator: OldDesignator=J* NewDesignator=J207
+Change Component Designator: OldDesignator=J* NewDesignator=J311
+Change Component Designator: OldDesignator=J* NewDesignator=J409
+Change Component Designator: OldDesignator=J* NewDesignator=J410
+Change Component Designator: OldDesignator=J* NewDesignator=J411
+Change Component Designator: OldDesignator=J* NewDesignator=J412
+Change Component Designator: OldDesignator=J* NewDesignator=J414
+Change Component Designator: OldDesignator=J* NewDesignator=J416
+Change Component Designator: OldDesignator=J* NewDesignator=J418
+Change Component Designator: OldDesignator=J* NewDesignator=J423
+Change Component Designator: OldDesignator=J*? NewDesignator=J303
+Change Component Designator: OldDesignator=J*? NewDesignator=J306
+Change Component Designator: OldDesignator=J*? NewDesignator=J308
+Change Component Designator: OldDesignator=J*? NewDesignator=J309
+Change Component Designator: OldDesignator=J*? NewDesignator=J312
+Change Component Designator: OldDesignator=J*? NewDesignator=J313
+Change Component Designator: OldDesignator=J*? NewDesignator=J320
+Change Component Designator: OldDesignator=J*? NewDesignator=J410
+Change Component Designator: OldDesignator=J*? NewDesignator=J415
+Change Component Designator: OldDesignator=J*? NewDesignator=J417
+Change Component Designator: OldDesignator=J*? NewDesignator=J419
+Change Component Designator: OldDesignator=J*? NewDesignator=J421
+Change Component Designator: OldDesignator=J*? NewDesignator=J422
+Change Component Designator: OldDesignator=J*? NewDesignator=J424
+Change Component Designator: OldDesignator=J? NewDesignator=J301
+Change Component Designator: OldDesignator=J? NewDesignator=J302
+Change Component Designator: OldDesignator=J? NewDesignator=J304
+Change Component Designator: OldDesignator=J? NewDesignator=J305
+Change Component Designator: OldDesignator=J? NewDesignator=J306
+Change Component Designator: OldDesignator=J? NewDesignator=J401
+Change Component Designator: OldDesignator=J? NewDesignator=J402
+Change Component Designator: OldDesignator=J? NewDesignator=J403
+Change Component Designator: OldDesignator=J? NewDesignator=J404
+Change Component Designator: OldDesignator=J? NewDesignator=J405
+Change Component Designator: OldDesignator=J? NewDesignator=J406
+Change Component Designator: OldDesignator=J? NewDesignator=J407
+Change Component Designator: OldDesignator=J? NewDesignator=J408
+Change Component Designator: OldDesignator=J? NewDesignator=J413
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J201_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J202_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J203_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J204_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J205_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J206_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J207_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J208_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J209_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J210_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J211_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J212_ECUs
+Change Component Designator: OldDesignator=J?_ECUs NewDesignator=J213_ECUs
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J201_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J202_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J203_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J204_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J205_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J206_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J207_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J208_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J209_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J210_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J211_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J212_TS
+Change Component Designator: OldDesignator=J?_TS NewDesignator=J213_TS
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Added Pin To Net: NetName=+24 Pin=J306-1
+Added Pin To Net: NetName=GND Pin=J306-2
+Add Pin To Net: Unknown Pin: Pin J314-1
+Add Pin To Net: Unknown Pin: Pin J314-2
+Add Pin To Net: Unknown Pin: Pin J314-3
+Add Pin To Net: Unknown Pin: Pin J314-4
+Add Pin To Net: Unknown Pin: Pin J315-1
+Add Pin To Net: Unknown Pin: Pin J315-2
+Add Pin To Net: Unknown Pin: Pin J315-3
+Add Pin To Net: Unknown Pin: Pin J315-4
+Add Net: Net with name "SC_IN_BSPD" already exists
+Add Net: Net with name "SC_OUT_BSPD" already exists
+Added Member To Class: ClassName=Testbench__PCB Member=Component J101 430450412
+Added Member To Class: ClassName=ECUs Member=Component J201_ECUs (J201) 1053101112
+Added Member To Class: ClassName=TS Member=Component J201_TS (J201) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J202_ECUs (J202) 1053101112
+Added Member To Class: ClassName=TS Member=Component J202_TS (J202) 1053101112
+Added Member To Class: ClassName=TS Member=Component J203_TS (J203) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J204_ECUs (J204) 1053101112
+Added Member To Class: ClassName=TS Member=Component J204_TS (J204) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J205_ECUs (J205) 1053101112
+Added Member To Class: ClassName=TS Member=Component J205_TS (J205) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J206_ECUs (J206) 1053101112
+Added Member To Class: ClassName=TS Member=Component J206_TS (J206) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J207_ECUs (J207) 1053101112
+Added Member To Class: ClassName=TS Member=Component J207_TS (J207) 1053101112
+Added Member To Class: ClassName=Master Member=Component J207 J_Nanofit_1x2_V
+Added Member To Class: ClassName=ECUs Member=Component J208_ECUs (J208) 1053101112
+Added Member To Class: ClassName=TS Member=Component J208_TS (J208) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J209_ECUs (J209) 1053101112
+Added Member To Class: ClassName=TS Member=Component J209_TS (J209) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J210_ECUs (J210) 1053101112
+Added Member To Class: ClassName=TS Member=Component J210_TS (J210) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J211_ECUs (J211) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J212_ECUs (J212) 1053101112
+Added Member To Class: ClassName=TS Member=Component J212_TS (J212) 1053101112
+Added Member To Class: ClassName=ECUs Member=Component J213_ECUs (J213) 1053101112
+Added Member To Class: ClassName=TS Member=Component J213_TS (J213) 1053101112
+Added Member To Class: ClassName=Master Member=Component J301 1053101116
+Added Member To Class: ClassName=Master Member=Component J303 61300211121
+Added Member To Class: ClassName=Master Member=Component J304 1053101116
+Added Member To Class: ClassName=Master Member=Component J305 1053101116
+Added Member To Class: ClassName=Master Member=Component J306 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Master Member=Component J306 436500215
+Added Member To Class: ClassName=Master Member=Component J308 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Master Member=Component J309 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Master Member=Component J311 61300211121
+Added Member To Class: ClassName=Master Member=Component J312 61300211121
+Added Member To Class: ClassName=Master Member=Component J313 61300211121
+Add Class Member: Failed to add class member : Component J314 1053091204
+Add Class Member: Failed to add class member : Component J315 1053091204
+Added Member To Class: ClassName=Master Member=Component J320 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J401 Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J402 Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J403 Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J404 Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J405 Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J406 Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J407 Molex Micro Fit 2x3
+Added Member To Class: ClassName=Extras Member=Component J408 436500400
+Added Member To Class: ClassName=Extras Member=Component J409 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J410 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J410 618009231221
+Added Member To Class: ClassName=Extras Member=Component J411 436500215
+Added Member To Class: ClassName=Extras Member=Component J412 J_NanoFit_2x2
+Added Member To Class: ClassName=Extras Member=Component J413 J_NanoFit_2x3
+Added Member To Class: ClassName=Extras Member=Component J414 436500215
+Added Member To Class: ClassName=Extras Member=Component J415 436500215
+Added Member To Class: ClassName=Extras Member=Component J416 J_NanoFit_2x2
+Added Member To Class: ClassName=Extras Member=Component J417 J_NanoFit_2x2
+Added Member To Class: ClassName=Extras Member=Component J418 618009231221
+Added Member To Class: ClassName=Extras Member=Component J419 618009231221
+Added Member To Class: ClassName=Extras Member=Component J421 618009231221
+Added Member To Class: ClassName=Extras Member=Component J422 618009231221
+Added Member To Class: ClassName=Extras Member=Component R* 3296W-1-103LF

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=SC_OUT_BSPD Pin=J309-1
+Added Pin To Net: NetName=SC_OUT_BSPD Pin=J309-2
+Added Pin To Net: NetName=SC_OUT_BSPD Pin=J313-1
+Added Pin To Net: NetName=SC_IN_BSPD Pin=J413-2
+Added Member To Class: ClassName=Master Member=Component J306 436500215
+Added Member To Class: ClassName=Extras Member=Component J410 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component R* 3296W-1-103LF

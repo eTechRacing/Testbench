@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=ECUs Member=J307
+Change Component Designator: OldDesignator=J320 NewDesignator=J310
+Added Member To Class: ClassName=ECUs Member=Component J207 1053101112
+Added Member To Class: ClassName=Master Member=Component J306 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J410 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J424 J_NanoFit_2x2

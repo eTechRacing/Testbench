@@ -1,0 +1,4 @@
+-Conector para el CurrentSensor? Ahora es un nuevo nodo.
+-Planteamiento 4 Inverters?
+-Brake Light conectada directamente a RECU?
+-Conexiones para el cargador?

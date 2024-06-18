@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Master Member=J207
+Change Component Designator: OldDesignator=J207 NewDesignator=J307
+Change Component Designator: OldDesignator=J306 NewDesignator=J317
+Added Member To Class: ClassName=Master Member=Component J307 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Master Member=Component J317 436500215
+Added Member To Class: ClassName=Extras Member=Component J410 J_Nanofit_1x2_V
+Added Member To Class: ClassName=Extras Member=Component J424 J_NanoFit_2x2

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CAN1_L Pin=J418-2
+Removed Pin From Net: NetName=GND Pin=J418-3
+Removed Pin From Net: NetName=CAN1_H Pin=J418-7
+Removed Pin From Net: NetName=CAN2_L Pin=J419-2
+Removed Pin From Net: NetName=GND Pin=J419-3
+Removed Member From Class: ClassName=Extras Member=J426
+Removed Member From Class: ClassName=Extras Member=J427
+Change Component Designator: OldDesignator=J426 NewDesignator=J418
+Change Component Designator: OldDesignator=J427 NewDesignator=J419

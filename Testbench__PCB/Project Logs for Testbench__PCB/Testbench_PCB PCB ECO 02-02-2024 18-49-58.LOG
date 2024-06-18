@@ -1,0 +1,1850 @@
+Added Component: Designator=J*?(J_Pinheader_1x2)
+Add component (AddParameter): Name = ".Creator"; Value = "GP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Shortcircuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category type"; Value = "PCB-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/61300211121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/en/PHD_2_54_THT_PIN_HEADER_6130XX11121?sq=61300211121&sp=https%3A%2F%2Fwww.we-online.com%2Fweb%2Fen%2Fwuerth_elektronik%2Fsearchpage.php%3Fsearch%3D61300211121#61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connections"; Value = "1x2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy,Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.236inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability"; Value = "94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum voltage"; Value = "250 V AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=0,14100, 50=0,09700, 100=0,07800, 200=0,07300, 500=0,06800 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product name"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8281581"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature rating"; Value = "-40° to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_NanoFit_1X2_V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1053092202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,09, 10=0,839, 50=0,839, 100=0,686, 1000=0,571, 10000=0,507 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105309-2202"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_Pinheader_1x2)
+Add component (AddParameter): Name = ".Creator"; Value = "GP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Shortcircuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category type"; Value = "PCB-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/61300211121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/en/PHD_2_54_THT_PIN_HEADER_6130XX11121?sq=61300211121&sp=https%3A%2F%2Fwww.we-online.com%2Fweb%2Fen%2Fwuerth_elektronik%2Fsearchpage.php%3Fsearch%3D61300211121#61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connections"; Value = "1x2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy,Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.236inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability"; Value = "94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum voltage"; Value = "250 V AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=0,14100, 50=0,09700, 100=0,07800, 200=0,07300, 500=0,06800 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product name"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8281581"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature rating"; Value = "-40° to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_Pinheader_1x2)
+Add component (AddParameter): Name = ".Creator"; Value = "GP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Shortcircuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category type"; Value = "PCB-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/61300211121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/en/PHD_2_54_THT_PIN_HEADER_6130XX11121?sq=61300211121&sp=https%3A%2F%2Fwww.we-online.com%2Fweb%2Fen%2Fwuerth_elektronik%2Fsearchpage.php%3Fsearch%3D61300211121#61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connections"; Value = "1x2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy,Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.236inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability"; Value = "94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum voltage"; Value = "250 V AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=0,14100, 50=0,09700, 100=0,07800, 200=0,07300, 500=0,06800 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product name"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8281581"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature rating"; Value = "-40° to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_NanoFit_1X2_V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1053092202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,09, 10=0,839, 50=0,839, 100=0,686, 1000=0,571, 10000=0,507 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105309-2202"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_NanoFit_1X2_V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1053092202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,09, 10=0,839, 50=0,839, 100=0,686, 1000=0,571, 10000=0,507 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105309-2202"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_NanoFit_1X2_V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1053092202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,09, 10=0,839, 50=0,839, 100=0,686, 1000=0,571, 10000=0,507 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105309-2202"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_VGA_CONNECTOR)
+Add component (AddParameter): Name = "Category"; Value = "D-Sub Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "18.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "30.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "618009231221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.84mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2,78, 10=2,59, 50=2,45, 100=2,3 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "618"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7718307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_VGA_CONNECTOR)
+Add component (AddParameter): Name = "Category"; Value = "D-Sub Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "18.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "30.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "618009231221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.84mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2,78, 10=2,59, 50=2,45, 100=2,3 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "618"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7718307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_NanoFit_2x2_v)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1053101104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,43000, 10=1,18000, 50=0,74900, 100=0,72900, 500=0,71400, 1000=0,70700 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2820681"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_MicroFit_2x1)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,87800, 10=0,74400, 80=0,63070, 3264=0,47000, 6528=0,45100, 13056=0,41760 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "11086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_VGA_CONNECTOR)
+Add component (AddParameter): Name = "Category"; Value = "D-Sub Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "18.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "30.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "618009231221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.84mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2,78, 10=2,59, 50=2,45, 100=2,3 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "618"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7718307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_NanoFit_2x2_v)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1053101104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,43000, 10=1,18000, 50=0,74900, 100=0,72900, 500=0,71400, 1000=0,70700 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2820681"; VariantName = "[No Variations]"
+Added Component: Designator=J*?(J_VGA_CONNECTOR)
+Add component (AddParameter): Name = "Category"; Value = "D-Sub Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "18.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "30.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "618009231221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.84mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2,78, 10=2,59, 50=2,45, 100=2,3 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "618"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7718307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_NanoFit_1X2_V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1053092202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,09, 10=0,839, 50=0,839, 100=0,686, 1000=0,571, 10000=0,507 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105309-2202"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_NanoFit_1X2_V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1053092202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,09, 10=0,839, 50=0,839, 100=0,686, 1000=0,571, 10000=0,507 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105309-2202"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_NanoFit_1X2_V)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1053092202"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,09, 10=0,839, 50=0,839, 100=0,686, 1000=0,571, 10000=0,507 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "6299"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "538-105309-2202"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_MicroFit_2x2_v)
+Add component (AddParameter): Name = ".Creator"; Value = "DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19462/883368-19462265.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19462/883368-19462265.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5158/0430450412-pcb-headers-142874-5158187.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5158/0430450412-pcb-headers-142874-5158187.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/30095/176640430450412-pcb-headers-30095929.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/30095/176640430450412-pcb-headers-30095929.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11747/0900766b800bd7d2-11747137.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11747/0900766b800bd7d2-11747137.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/26916/getdatasheetpartid-253008-26916516.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/26916/getdatasheetpartid-253008-26916516.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/22637/1928349-22637530.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/22637/1928349-22637530.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/9468/0430450412-pcb-headers-9468485.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/9468/0430450412-pcb-headers-9468485.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "43045-0412"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,24720, 10=1,02970, 80=0,85390, 2232=0,63810, 6696=0,59030, 11160=0,55550 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "54122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "43045-0412"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_Pinheader_1x2)
+Add component (AddParameter): Name = ".Creator"; Value = "GP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Application"; Value = "Shortcircuit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category type"; Value = "PCB-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/catalog/datasheet/61300211121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/en/PHD_2_54_THT_PIN_HEADER_6130XX11121?sq=61300211121&sp=https%3A%2F%2Fwww.we-online.com%2Fweb%2Fen%2Fwuerth_elektronik%2Fsearchpage.php%3Fsearch%3D61300211121#61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/13619/6130xx11121-48870-13619345.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connections"; Value = "1x2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy,Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.236inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability"; Value = "94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer part number"; Value = "61300211121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum current"; Value = "3 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Maximum voltage"; Value = "250 V AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.1inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=0,14100, 50=0,09700, 100=0,07800, 200=0,07300, 500=0,06800 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product name"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1855"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Würth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "8281581"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature rating"; Value = "-40° to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_VGA_CONNECTOR)
+Add component (AddParameter): Name = "Category"; Value = "D-Sub Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/12669/6180xx231221-12669204.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/25605/0900766b81191766-25605476.pdf?src-supplier=Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/1426/1442191-1426429.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "18.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "30.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "618009231221"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.84mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=2,78, 10=2,59, 50=2,45, 100=2,3 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reach SVHC Compliant"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "618"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "136"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Rs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7718307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "125V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_MicroFit_2x1)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,87800, 10=0,74400, 80=0,63070, 3264=0,47000, 6528=0,45100, 13056=0,41760 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "11086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_NanoFit_2x2_v)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1053101104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,43000, 10=1,18000, 50=0,74900, 100=0,72900, 500=0,71400, 1000=0,70700 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2820681"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_NanoFit_2x2_v)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1053101104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,43000, 10=1,18000, 50=0,74900, 100=0,72900, 500=0,71400, 1000=0,70700 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2820681"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_NanoFit_2x2_v)
+Add component (AddParameter): Name = "Category"; Value = "Uncategorized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/ps/PS-105300-100-001.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "1053101104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,43000, 10=1,18000, 50=0,74900, 100=0,72900, 500=0,71400, 1000=0,70700 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2820681"; VariantName = "[No Variations]"
+Added Component: Designator=J*(J_MicroFit_2x1)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,87800, 10=0,74400, 80=0,63070, 3264=0,47000, 6528=0,45100, 13056=0,41760 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "11086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_ECUs(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?_TS(J_NanoFit_2x6_V)
+Added Component: Designator=J?(J_MicroFit_2x3_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0430450612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=1,45500, 100=1,26700, 375=1,08900, 1500=0,90900, 3000=0,72900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332898"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_MicroFit_2x3_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0430450612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=1,45500, 100=1,26700, 375=1,08900, 1500=0,90900, 3000=0,72900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332898"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_MicroFit_2x3_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0430450612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=1,45500, 100=1,26700, 375=1,08900, 1500=0,90900, 3000=0,72900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332898"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_MicroFit_2x3_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0430450612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=1,45500, 100=1,26700, 375=1,08900, 1500=0,90900, 3000=0,72900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332898"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_NanoFit_2x3)
+Added Component: Designator=J?(J_MicroFit_2x3_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0430450612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=1,45500, 100=1,26700, 375=1,08900, 1500=0,90900, 3000=0,72900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332898"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_MicroFit_2x3_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0430450612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=1,45500, 100=1,26700, 375=1,08900, 1500=0,90900, 3000=0,72900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332898"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_MicroFit_2x3_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/430450612_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11748/0900766b800bd7d2-11748707.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/19462/883464-19462371.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/30194/128550430450612-pcb-headers-30194512.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9468/0430450612-pcb-headers-9468492.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/0430450612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0612"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "5=1,45500, 100=1,26700, 375=1,08900, 1500=0,90900, 3000=0,72900 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2635"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2332898"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Added Component: Designator=J?(J_NanoFit_2x8_V)
+Add component (AddParameter): Name = ".Creator"; Value = "AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/sd/1053101210_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/1053101210_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/1053101116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "105310-1116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3,21000, 10=2,82400, 84=2,24619, 1008=1,86110, 4956=1,66858 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM16885-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Kinked Pin"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_NanoFit_2x8_V)
+Add component (AddParameter): Name = ".Creator"; Value = "AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/sd/1053101210_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/1053101210_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/1053101116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "105310-1116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3,21000, 10=2,82400, 84=2,24619, 1008=1,86110, 4956=1,66858 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM16885-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Kinked Pin"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found J_NanoFit_1x4_V - duplicate
+Added Component: Designator=J?(J_NanoFit_1x4_V)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://farnell.com//datasheets/2221349.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://farnell.com//datasheets/2221349.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2221349.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2221349.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-1223.PDF?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.literature.molex.com/SQLImages/kelmscott/Molex/PDF_Images/987651-1223.PDF?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://www.farnell.com/datasheets/2059602.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://www.farnell.com/datasheets/2059602.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "105309-1204"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,37050, 10=1,11700, 100=0,95270, 500=0,86980, 1000=0,74060, 2500=0,71930, 5000=0,68450, 10000=0,66860 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "709"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "105309-1204"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_MicroFit_1x4)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19462/884184-19462234.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19462/884184-19462234.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5151/0436500400-pcb-headers-148663-5151881.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5151/0436500400-pcb-headers-148663-5151881.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16085/0436500400-pcb-headers-16085752.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16085/0436500400-pcb-headers-16085752.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11748/0900766b80d6135b-11748178.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11748/0900766b80d6135b-11748178.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/30221/142510436500400-pcb-headers-30221164.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/30221/142510436500400-pcb-headers-30221164.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/17080/70266896-17080471.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/17080/70266896-17080471.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/7094/1946229-7094763.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/7094/1946229-7094763.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/9449/0436500400-pcb-headers-9449446.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/9449/0436500400-pcb-headers-9449446.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass,Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "3.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Glow Wire Compliant"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen Free"; Value = "Low Halogen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "14.86mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "43650-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole,Cable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2380"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1,24000, 10=1,22000, 50=1,19000, 100=1,17000, 500=1,14000, 1000=1,12000 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "43650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4623"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1012232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_NanoFit_2x8_V)
+Add component (AddParameter): Name = ".Creator"; Value = "AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.molex.com/pdm_docs/sd/1053101210_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.molex.com/pdm_docs/sd/1053101210_sd.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/molex/products/part-detail/pcb_headers/1053101116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Latch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "105310-1116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=3,21000, 10=2,82400, 84=2,24619, 1008=1,86110, 4956=1,66858 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "84"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM16885-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Kinked Pin"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J_MicroFit_2x1)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19462/884109-19462034.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/5157/0436500215-pcb-headers-148687-5157608.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16085/0436500215-pcb-headers-16085668.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11748/0900766b80307ce2-11748388.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/9432/0436500215-pcb-headers-9432850.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/7920/1889390-7920892.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,87800, 10=0,74400, 80=0,63070, 3264=0,47000, 6528=0,45100, 13056=0,41760 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "11086"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "43650-0215"; VariantName = "[No Variations]"
+Added Component: Designator=R*?(R0805FTK)
+Add component (AddParameter): Name = ".Creator"; Value = "DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/11821/0900766b80fcdb72-11821135.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/11821/0900766b80fcdb72-11821135.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/9122/chpreztr-9122374.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/9122/chpreztr-9122374.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/22693/1902866-22693254.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/22693/1902866-22693254.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/7986/691949-7986187.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/7986/691949-7986187.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/30065/159chpreztr-30065976.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/30065/159chpreztr-30065976.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/16783/70154685-16783482.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/16783/70154685-16783482.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/5548/chpreztr-5548491.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/5548/chpreztr-5548491.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/6559/chpreztr-6559900.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/6559/chpreztr-6559900.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/6559/chpreztr-6559901.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/6559/chpreztr-6559901.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.ciiva.com/7985/1856384-7985869.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.ciiva.com/7985/1856384-7985869.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "https://datasheet.ciiva.com/48692/001055517-da-01-en-smd-wid-cr0805-jw-103elf-10k-ohm-1-8w-48692118.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://datasheet.ciiva.com/48692/001055517-da-01-en-smd-wid-cr0805-jw-103elf-10k-ohm-1-8w-48692118.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Rectangular"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "CR0805-JW-103ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,05790, 10=0,01540, 25=0,01340, 100=0,00340 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "CR0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "57566"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CR0805-JW-103ELF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "THICK FILM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "508um"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R*(R10k-VTR)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Variable Resistors and Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19454/853572-19454866.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19454/853572-19454866.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11830/0900766b8069ccf4-11830871.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11830/0900766b8069ccf4-11830871.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/29122/447277-da-01-en-trimmer-tht3296w-1-103lf-10k-0-5w-29122362.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/29122/447277-da-01-en-trimmer-tht3296w-1-103lf-10k-0-5w-29122362.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/26913/3296w-1-103lf-26913885.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/26913/3296w-1-103lf-26913885.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/1131/1815117-1131273.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/1131/1815117-1131273.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/18411/70153578-18411561.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/18411/70153578-18411561.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/3266/3296-3266187.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/3266/3296-3266187.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/30093/3296-30093899.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/30093/3296-30093899.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/2156/3296-2156893.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/2156/3296-2156893.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.ciiva.com/14173/ew3296-dat-e-14173022.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.ciiva.com/14173/ew3296-dat-e-14173022.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://es.rs-online.com/web/p/potenciometros-de-ajuste/5219647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.395inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "PCB,Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "50=2,54800, 100=2,31900, 200=2,14000, 300=1,88400, 500=1,55300 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "3296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1673377"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CERMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.03oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "9.53mm"; VariantName = "[No Variations]"
+Added Component: Designator=R*(R10k-VTR)
+Add component (AddParameter): Name = ".Creator"; Value = "DO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".PCBcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = ".SCHcheck"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Variable Resistors and Potentiometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/19454/853572-19454866.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/19454/853572-19454866.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/11830/0900766b8069ccf4-11830871.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/11830/0900766b8069ccf4-11830871.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/29122/447277-da-01-en-trimmer-tht3296w-1-103lf-10k-0-5w-29122362.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/29122/447277-da-01-en-trimmer-tht3296w-1-103lf-10k-0-5w-29122362.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/26913/3296w-1-103lf-26913885.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/26913/3296w-1-103lf-26913885.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/1131/1815117-1131273.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/1131/1815117-1131273.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/18411/70153578-18411561.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/18411/70153578-18411561.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "https://datasheet.ciiva.com/3266/3296-3266187.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "https://datasheet.ciiva.com/3266/3296-3266187.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8Description"; Value = "https://datasheet.ciiva.com/30093/3296-30093899.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink8URL"; Value = "https://datasheet.ciiva.com/30093/3296-30093899.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9Description"; Value = "https://datasheet.ciiva.com/2156/3296-2156893.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink9URL"; Value = "https://datasheet.ciiva.com/2156/3296-2156893.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10Description"; Value = "https://datasheet.ciiva.com/14173/ew3296-dat-e-14173022.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink10URL"; Value = "https://datasheet.ciiva.com/14173/ew3296-dat-e-14173022.pdf?src-supplier=Distrelec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11Description"; Value = "Where buy it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink11URL"; Value = "https://es.rs-online.com/web/p/potenciometros-de-ajuste/5219647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4.83mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.395inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.53mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "PCB,Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Turns"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "50=2,54800, 100=2,31900, 200=2,14000, 300=1,88400, 500=1,55300 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Cermet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "3296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1673377"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "CERMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.03oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "9.53mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3 Pin=J?_ECUs-1
+Added Pin To Net: NetName=+3.3 Pin=J?_ECUs-1
+Added Pin To Net: NetName=+3.3 Pin=J?_ECUs-1
+Added Pin To Net: NetName=+3.3 Pin=J?_TS-1
+Added Pin To Net: NetName=+3.3 Pin=J?_TS-1
+Added Pin To Net: NetName=+3.3 Pin=J?_TS-1
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=J?-1
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=R*-2
+Added Pin To Net: NetName=+12 Pin=R*-2
+Added Pin To Net: NetName=+12 Pin=R*?-2
+Added Net: Name=+12
+Added Pin To Net: NetName=+24 Pin=J*-1
+Added Pin To Net: NetName=+24 Pin=J*-1
+Added Pin To Net: NetName=+24 Pin=J*-1
+Added Pin To Net: NetName=+24 Pin=J*-1
+Added Pin To Net: NetName=+24 Pin=J*-3
+Added Pin To Net: NetName=+24 Pin=J*-4
+Added Pin To Net: NetName=+24 Pin=J*?-3
+Added Pin To Net: NetName=+24 Pin=J*?-4
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Pin To Net: NetName=+24 Pin=J?-1
+Added Net: Name=+24
+Added Pin To Net: NetName=AIR+_Coil_1 Pin=J?-4
+Added Pin To Net: NetName=AIR+_Coil_1 Pin=J?-4
+Added Pin To Net: NetName=AIR+_Coil_1 Pin=J?-12
+Added Net: Name=AIR+_Coil_1
+Added Pin To Net: NetName=AIR+_State Pin=J?-12
+Added Pin To Net: NetName=AIR+_State Pin=J?-12
+Added Pin To Net: NetName=AIR+_State Pin=J?-15
+Added Net: Name=AIR+_State
+Added Pin To Net: NetName=AIR-_Coil_1 Pin=J?-5
+Added Pin To Net: NetName=AIR-_Coil_1 Pin=J?-5
+Added Pin To Net: NetName=AIR-_Coil_1 Pin=J?-13
+Added Net: Name=AIR-_Coil_1
+Added Pin To Net: NetName=AIR-_State Pin=J?-13
+Added Pin To Net: NetName=AIR-_State Pin=J?-13
+Added Pin To Net: NetName=AIR-_State Pin=J?-16
+Added Net: Name=AIR-_State
+Added Pin To Net: NetName=Brake_in Pin=J?-3
+Added Pin To Net: NetName=Brake_in Pin=R*-3
+Added Net: Name=Brake_in
+Added Pin To Net: NetName=CAN1_H Pin=J*-1
+Added Pin To Net: NetName=CAN1_H Pin=J*-1
+Added Pin To Net: NetName=CAN1_H Pin=J*-7
+Added Pin To Net: NetName=CAN1_H Pin=J*?-1
+Added Pin To Net: NetName=CAN1_H Pin=J*?-7
+Added Pin To Net: NetName=CAN1_H Pin=J?-1
+Added Pin To Net: NetName=CAN1_H Pin=J?-2
+Added Pin To Net: NetName=CAN1_H Pin=J?-2
+Added Pin To Net: NetName=CAN1_H Pin=J?-2
+Added Pin To Net: NetName=CAN1_H Pin=J?-2
+Added Pin To Net: NetName=CAN1_H Pin=J?-2
+Added Pin To Net: NetName=CAN1_H Pin=J?-2
+Added Pin To Net: NetName=CAN1_H Pin=J?-2
+Added Net: Name=CAN1_H
+Added Pin To Net: NetName=CAN1_L Pin=J*-2
+Added Pin To Net: NetName=CAN1_L Pin=J*-2
+Added Pin To Net: NetName=CAN1_L Pin=J*-2
+Added Pin To Net: NetName=CAN1_L Pin=J*?-2
+Added Pin To Net: NetName=CAN1_L Pin=J*?-2
+Added Pin To Net: NetName=CAN1_L Pin=J?-2
+Added Pin To Net: NetName=CAN1_L Pin=J?-3
+Added Pin To Net: NetName=CAN1_L Pin=J?-3
+Added Pin To Net: NetName=CAN1_L Pin=J?-3
+Added Pin To Net: NetName=CAN1_L Pin=J?-3
+Added Pin To Net: NetName=CAN1_L Pin=J?-3
+Added Pin To Net: NetName=CAN1_L Pin=J?-3
+Added Pin To Net: NetName=CAN1_L Pin=J?-3
+Added Net: Name=CAN1_L
+Added Pin To Net: NetName=CAN2_H Pin=J*-1
+Added Pin To Net: NetName=CAN2_H Pin=J*?-7
+Added Pin To Net: NetName=CAN2_H Pin=J*?-7
+Added Pin To Net: NetName=CAN2_H Pin=J?-4
+Added Pin To Net: NetName=CAN2_H Pin=J?-4
+Added Pin To Net: NetName=CAN2_H Pin=J?-4
+Added Pin To Net: NetName=CAN2_H Pin=J?-4
+Added Pin To Net: NetName=CAN2_H Pin=J?-4
+Added Pin To Net: NetName=CAN2_H Pin=J?-4
+Added Pin To Net: NetName=CAN2_H Pin=J?-4
+Added Net: Name=CAN2_H
+Added Pin To Net: NetName=CAN2_L Pin=J*-2
+Added Pin To Net: NetName=CAN2_L Pin=J*-2
+Added Pin To Net: NetName=CAN2_L Pin=J*?-2
+Added Pin To Net: NetName=CAN2_L Pin=J*?-2
+Added Pin To Net: NetName=CAN2_L Pin=J*?-2
+Added Pin To Net: NetName=CAN2_L Pin=J?-5
+Added Pin To Net: NetName=CAN2_L Pin=J?-5
+Added Pin To Net: NetName=CAN2_L Pin=J?-5
+Added Pin To Net: NetName=CAN2_L Pin=J?-5
+Added Pin To Net: NetName=CAN2_L Pin=J?-5
+Added Pin To Net: NetName=CAN2_L Pin=J?-5
+Added Pin To Net: NetName=CAN2_L Pin=J?-5
+Added Net: Name=CAN2_L
+Added Pin To Net: NetName=GND_MH Pin=J?-5
+Added Net: Name=GND_MH
+Added Pin To Net: NetName=GND_TS Pin=J?_TS-4
+Added Pin To Net: NetName=GND_TS Pin=J?_TS-4
+Added Pin To Net: NetName=GND_TS Pin=J?_TS-4
+Added Net: Name=GND_TS
+Added Pin To Net: NetName=GND Pin=J*-1
+Added Pin To Net: NetName=GND Pin=J*-2
+Added Pin To Net: NetName=GND Pin=J*-3
+Added Pin To Net: NetName=GND Pin=J*-4
+Added Pin To Net: NetName=GND Pin=J*-4
+Added Pin To Net: NetName=GND Pin=J*-4
+Added Pin To Net: NetName=GND Pin=J*?-1
+Added Pin To Net: NetName=GND Pin=J*?-2
+Added Pin To Net: NetName=GND Pin=J*?-3
+Added Pin To Net: NetName=GND Pin=J*?-3
+Added Pin To Net: NetName=GND Pin=J*?-3
+Added Pin To Net: NetName=GND Pin=J*?-3
+Added Pin To Net: NetName=GND Pin=J*?-4
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?-9
+Added Pin To Net: NetName=GND Pin=J?_ECUs-4
+Added Pin To Net: NetName=GND Pin=J?_ECUs-4
+Added Pin To Net: NetName=GND Pin=J?_ECUs-4
+Added Pin To Net: NetName=GND Pin=R*-1
+Added Pin To Net: NetName=GND Pin=R*-1
+Added Net: Name=GND
+Added Pin To Net: NetName=Green_LEDs Pin=J?-2
+Added Pin To Net: NetName=Green_LEDs Pin=J?-2
+Added Net: Name=Green_LEDs
+Added Pin To Net: NetName=Hall_in Pin=J?-6
+Added Pin To Net: NetName=Hall_in Pin=R*-3
+Added Net: Name=Hall_in
+Added Pin To Net: NetName=HV_Accumulator_State Pin=J?-10
+Added Pin To Net: NetName=HV_Accumulator_State Pin=J?-15
+Added Pin To Net: NetName=HV_Accumulator_State Pin=J?-15
+Added Net: Name=HV_Accumulator_State
+Added Pin To Net: NetName=I2C1_SDA_ECUs Pin=J?_ECUs-3
+Added Pin To Net: NetName=I2C1_SDA_ECUs Pin=J?_ECUs-3
+Added Pin To Net: NetName=I2C1_SDA_ECUs Pin=J?_ECUs-3
+Added Net: Name=I2C1_SDA_ECUs
+Added Pin To Net: NetName=I2C1_SDA_TS Pin=J?_TS-3
+Added Pin To Net: NetName=I2C1_SDA_TS Pin=J?_TS-3
+Added Pin To Net: NetName=I2C1_SDA_TS Pin=J?_TS-3
+Added Net: Name=I2C1_SDA_TS
+Added Pin To Net: NetName=I2C2_SCL_ECUs Pin=J?_ECUs-5
+Added Pin To Net: NetName=I2C2_SCL_ECUs Pin=J?_ECUs-5
+Added Pin To Net: NetName=I2C2_SCL_ECUs Pin=J?_ECUs-5
+Added Net: Name=I2C2_SCL_ECUs
+Added Pin To Net: NetName=I2C2_SCL_TS Pin=J?_TS-5
+Added Pin To Net: NetName=I2C2_SCL_TS Pin=J?_TS-5
+Added Pin To Net: NetName=I2C2_SCL_TS Pin=J?_TS-5
+Added Net: Name=I2C2_SCL_TS
+Added Pin To Net: NetName=I2C2_SDA_ECUs Pin=J?_ECUs-6
+Added Pin To Net: NetName=I2C2_SDA_ECUs Pin=J?_ECUs-6
+Added Pin To Net: NetName=I2C2_SDA_ECUs Pin=J?_ECUs-6
+Added Net: Name=I2C2_SDA_ECUs
+Added Pin To Net: NetName=I2C2_SDA_TS Pin=J?_TS-6
+Added Pin To Net: NetName=I2C2_SDA_TS Pin=J?_TS-6
+Added Pin To Net: NetName=I2C2_SDA_TS Pin=J?_TS-6
+Added Net: Name=I2C2_SDA_TS
+Added Pin To Net: NetName=IMD_OK_unlatched Pin=J*?-1
+Added Pin To Net: NetName=IMD_OK_unlatched Pin=J?-2
+Added Pin To Net: NetName=IMD_OK_unlatched Pin=R*?-1
+Added Net: Name=IMD_OK_unlatched
+Added Pin To Net: NetName=ISC1_SCL_ECUs Pin=J?_ECUs-2
+Added Pin To Net: NetName=ISC1_SCL_ECUs Pin=J?_ECUs-2
+Added Pin To Net: NetName=ISC1_SCL_ECUs Pin=J?_ECUs-2
+Added Net: Name=ISC1_SCL_ECUs
+Added Pin To Net: NetName=ISC1_SCL_TS Pin=J?_TS-2
+Added Pin To Net: NetName=ISC1_SCL_TS Pin=J?_TS-2
+Added Pin To Net: NetName=ISC1_SCL_TS Pin=J?_TS-2
+Added Net: Name=ISC1_SCL_TS
+Added Pin To Net: NetName=JF210_ECUs Pin=J?_ECUs-10
+Added Net: Name=JF210_ECUs
+Added Pin To Net: NetName=JF210_TS Pin=J?_TS-10
+Added Net: Name=JF210_TS
+Added Pin To Net: NetName=JFE1_ECUs Pin=J?_ECUs-1
+Added Pin To Net: NetName=JFE1_ECUs Pin=J?_ECUs-1
+Added Net: Name=JFE1_ECUs
+Added Pin To Net: NetName=JFE1_TS Pin=J?_TS-1
+Added Pin To Net: NetName=JFE1_TS Pin=J?_TS-1
+Added Net: Name=JFE1_TS
+Added Pin To Net: NetName=JFE2_ECUs Pin=J?_ECUs-2
+Added Pin To Net: NetName=JFE2_ECUs Pin=J?_ECUs-2
+Added Net: Name=JFE2_ECUs
+Added Pin To Net: NetName=JFE2_TS Pin=J?_TS-2
+Added Pin To Net: NetName=JFE2_TS Pin=J?_TS-2
+Added Net: Name=JFE2_TS
+Added Pin To Net: NetName=JFE3_ECUs Pin=J?_ECUs-3
+Added Pin To Net: NetName=JFE3_ECUs Pin=J?_ECUs-3
+Added Net: Name=JFE3_ECUs
+Added Pin To Net: NetName=JFE3_TS Pin=J?_TS-3
+Added Pin To Net: NetName=JFE3_TS Pin=J?_TS-3
+Added Net: Name=JFE3_TS
+Added Pin To Net: NetName=JFE4_ECUs Pin=J?_ECUs-4
+Added Pin To Net: NetName=JFE4_ECUs Pin=J?_ECUs-4
+Added Net: Name=JFE4_ECUs
+Added Pin To Net: NetName=JFE4_TS Pin=J?_TS-4
+Added Pin To Net: NetName=JFE4_TS Pin=J?_TS-4
+Added Net: Name=JFE4_TS
+Added Pin To Net: NetName=JFE5_ECUs Pin=J?_ECUs-5
+Added Pin To Net: NetName=JFE5_ECUs Pin=J?_ECUs-5
+Added Net: Name=JFE5_ECUs
+Added Pin To Net: NetName=JFE5_TS Pin=J?_TS-5
+Added Pin To Net: NetName=JFE5_TS Pin=J?_TS-5
+Added Net: Name=JFE5_TS
+Added Pin To Net: NetName=JFE6_ECUs Pin=J?_ECUs-6
+Added Pin To Net: NetName=JFE6_ECUs Pin=J?_ECUs-6
+Added Net: Name=JFE6_ECUs
+Added Pin To Net: NetName=JFE6_TS Pin=J?_TS-6
+Added Pin To Net: NetName=JFE6_TS Pin=J?_TS-6
+Added Net: Name=JFE6_TS
+Added Pin To Net: NetName=JFE7_ECUs Pin=J?_ECUs-7
+Added Pin To Net: NetName=JFE7_ECUs Pin=J?_ECUs-7
+Added Net: Name=JFE7_ECUs
+Added Pin To Net: NetName=JFE7_TS Pin=J?_TS-7
+Added Pin To Net: NetName=JFE7_TS Pin=J?_TS-7
+Added Net: Name=JFE7_TS
+Added Pin To Net: NetName=JFE8_ECUs Pin=J?_ECUs-8
+Added Pin To Net: NetName=JFE8_ECUs Pin=J?_ECUs-8
+Added Net: Name=JFE8_ECUs
+Added Pin To Net: NetName=JFE8_TS Pin=J?_TS-8
+Added Pin To Net: NetName=JFE8_TS Pin=J?_TS-8
+Added Net: Name=JFE8_TS
+Added Pin To Net: NetName=JFE9_ECUs Pin=J?_ECUs-9
+Added Pin To Net: NetName=JFE9_ECUs Pin=J?_ECUs-9
+Added Net: Name=JFE9_ECUs
+Added Pin To Net: NetName=JFE9_TS Pin=J?_TS-9
+Added Pin To Net: NetName=JFE9_TS Pin=J?_TS-9
+Added Net: Name=JFE9_TS
+Added Pin To Net: NetName=JFE10_ECUs Pin=J?_ECUs-10
+Added Pin To Net: NetName=JFE10_ECUs Pin=J?_ECUs-10
+Added Net: Name=JFE10_ECUs
+Added Pin To Net: NetName=JFE10_TS Pin=J?_TS-10
+Added Pin To Net: NetName=JFE10_TS Pin=J?_TS-10
+Added Net: Name=JFE10_TS
+Added Pin To Net: NetName=JFE11_ECUs Pin=J?_ECUs-11
+Added Pin To Net: NetName=JFE11_ECUs Pin=J?_ECUs-11
+Added Net: Name=JFE11_ECUs
+Added Pin To Net: NetName=JFE11_TS Pin=J?_TS-11
+Added Pin To Net: NetName=JFE11_TS Pin=J?_TS-11
+Added Net: Name=JFE11_TS
+Added Pin To Net: NetName=JFE12_ECUs Pin=J?_ECUs-12
+Added Pin To Net: NetName=JFE12_ECUs Pin=J?_ECUs-12
+Added Net: Name=JFE12_ECUs
+Added Pin To Net: NetName=JFE12_TS Pin=J?_TS-12
+Added Pin To Net: NetName=JFE12_TS Pin=J?_TS-12
+Added Net: Name=JFE12_TS
+Added Pin To Net: NetName=JFRS21_ECUs Pin=J?_ECUs-1
+Added Net: Name=JFRS21_ECUs
+Added Pin To Net: NetName=JFRS21_TS Pin=J?_TS-1
+Added Net: Name=JFRS21_TS
+Added Pin To Net: NetName=JFRS22_ECUs Pin=J?_ECUs-2
+Added Net: Name=JFRS22_ECUs
+Added Pin To Net: NetName=JFRS22_TS Pin=J?_TS-2
+Added Net: Name=JFRS22_TS
+Added Pin To Net: NetName=JFRS23_ECUs Pin=J?_ECUs-3
+Added Net: Name=JFRS23_ECUs
+Added Pin To Net: NetName=JFRS23_TS Pin=J?_TS-3
+Added Net: Name=JFRS23_TS
+Added Pin To Net: NetName=JFRS24_ECUs Pin=J?_ECUs-4
+Added Net: Name=JFRS24_ECUs
+Added Pin To Net: NetName=JFRS24_TS Pin=J?_TS-4
+Added Net: Name=JFRS24_TS
+Added Pin To Net: NetName=JFRS25_ECUs Pin=J?_ECUs-5
+Added Net: Name=JFRS25_ECUs
+Added Pin To Net: NetName=JFRS25_TS Pin=J?_TS-5
+Added Net: Name=JFRS25_TS
+Added Pin To Net: NetName=JFRS26_ECUs Pin=J?_ECUs-6
+Added Net: Name=JFRS26_ECUs
+Added Pin To Net: NetName=JFRS26_TS Pin=J?_TS-6
+Added Net: Name=JFRS26_TS
+Added Pin To Net: NetName=JFRS27_ECUs Pin=J?_ECUs-7
+Added Net: Name=JFRS27_ECUs
+Added Pin To Net: NetName=JFRS27_TS Pin=J?_TS-7
+Added Net: Name=JFRS27_TS
+Added Pin To Net: NetName=JFRS28_ECUs Pin=J?_ECUs-8
+Added Net: Name=JFRS28_ECUs
+Added Pin To Net: NetName=JFRS28_TS Pin=J?_TS-8
+Added Net: Name=JFRS28_TS
+Added Pin To Net: NetName=JFRS29_ECUs Pin=J?_ECUs-9
+Added Net: Name=JFRS29_ECUs
+Added Pin To Net: NetName=JFRS29_TS Pin=J?_TS-9
+Added Net: Name=JFRS29_TS
+Added Pin To Net: NetName=JFRS210_ECUs Pin=J?_ECUs-10
+Added Net: Name=JFRS210_ECUs
+Added Pin To Net: NetName=JFRS210_TS Pin=J?_TS-10
+Added Net: Name=JFRS210_TS
+Added Pin To Net: NetName=JFRS211_ECUs Pin=J?_ECUs-11
+Added Net: Name=JFRS211_ECUs
+Added Pin To Net: NetName=JFRS211_TS Pin=J?_TS-11
+Added Net: Name=JFRS211_TS
+Added Pin To Net: NetName=JFRS212_ECUs Pin=J?_ECUs-12
+Added Net: Name=JFRS212_ECUs
+Added Pin To Net: NetName=JFRS212_TS Pin=J?_TS-12
+Added Net: Name=JFRS212_TS
+Added Pin To Net: NetName=JFS11_ECUs Pin=J?_ECUs-1
+Added Pin To Net: NetName=JFS11_ECUs Pin=J?_ECUs-1
+Added Net: Name=JFS11_ECUs
+Added Pin To Net: NetName=JFS11_TS Pin=J?_TS-1
+Added Pin To Net: NetName=JFS11_TS Pin=J?_TS-1
+Added Net: Name=JFS11_TS
+Added Pin To Net: NetName=JFS12_ECUs Pin=J?_ECUs-2
+Added Pin To Net: NetName=JFS12_ECUs Pin=J?_ECUs-2
+Added Net: Name=JFS12_ECUs
+Added Pin To Net: NetName=JFS12_TS Pin=J?_TS-2
+Added Pin To Net: NetName=JFS12_TS Pin=J?_TS-2
+Added Net: Name=JFS12_TS
+Added Pin To Net: NetName=JFS13_ECUs Pin=J?_ECUs-3
+Added Pin To Net: NetName=JFS13_ECUs Pin=J?_ECUs-3
+Added Net: Name=JFS13_ECUs
+Added Pin To Net: NetName=JFS13_TS Pin=J?_TS-3
+Added Pin To Net: NetName=JFS13_TS Pin=J?_TS-3
+Added Net: Name=JFS13_TS
+Added Pin To Net: NetName=JFS14_ECUs Pin=J?_ECUs-4
+Added Pin To Net: NetName=JFS14_ECUs Pin=J?_ECUs-4
+Added Net: Name=JFS14_ECUs
+Added Pin To Net: NetName=JFS14_TS Pin=J?_TS-4
+Added Pin To Net: NetName=JFS14_TS Pin=J?_TS-4
+Added Net: Name=JFS14_TS
+Added Pin To Net: NetName=JFS15_ECUs Pin=J?_ECUs-5
+Added Pin To Net: NetName=JFS15_ECUs Pin=J?_ECUs-5
+Added Net: Name=JFS15_ECUs
+Added Pin To Net: NetName=JFS15_TS Pin=J?_TS-5
+Added Pin To Net: NetName=JFS15_TS Pin=J?_TS-5
+Added Net: Name=JFS15_TS
+Added Pin To Net: NetName=JFS16_ECUs Pin=J?_ECUs-6
+Added Pin To Net: NetName=JFS16_ECUs Pin=J?_ECUs-6
+Added Net: Name=JFS16_ECUs
+Added Pin To Net: NetName=JFS16_TS Pin=J?_TS-6
+Added Pin To Net: NetName=JFS16_TS Pin=J?_TS-6
+Added Net: Name=JFS16_TS
+Added Pin To Net: NetName=JFS17_ECUs Pin=J?_ECUs-7
+Added Pin To Net: NetName=JFS17_ECUs Pin=J?_ECUs-7
+Added Net: Name=JFS17_ECUs
+Added Pin To Net: NetName=JFS17_TS Pin=J?_TS-7
+Added Pin To Net: NetName=JFS17_TS Pin=J?_TS-7
+Added Net: Name=JFS17_TS
+Added Pin To Net: NetName=JFS18_ECUs Pin=J?_ECUs-8
+Added Pin To Net: NetName=JFS18_ECUs Pin=J?_ECUs-8
+Added Net: Name=JFS18_ECUs
+Added Pin To Net: NetName=JFS18_TS Pin=J?_TS-8
+Added Pin To Net: NetName=JFS18_TS Pin=J?_TS-8
+Added Net: Name=JFS18_TS
+Added Pin To Net: NetName=JFS19_ECUs Pin=J?_ECUs-9
+Added Pin To Net: NetName=JFS19_ECUs Pin=J?_ECUs-9
+Added Net: Name=JFS19_ECUs
+Added Pin To Net: NetName=JFS19_TS Pin=J?_TS-9
+Added Pin To Net: NetName=JFS19_TS Pin=J?_TS-9
+Added Net: Name=JFS19_TS
+Added Pin To Net: NetName=JFS21_ECUs Pin=J?_ECUs-1
+Added Net: Name=JFS21_ECUs
+Added Pin To Net: NetName=JFS21_TS Pin=J?_TS-1
+Added Net: Name=JFS21_TS
+Added Pin To Net: NetName=JFS22_ECUs Pin=J?_ECUs-2
+Added Net: Name=JFS22_ECUs
+Added Pin To Net: NetName=JFS22_TS Pin=J?_TS-2
+Added Net: Name=JFS22_TS
+Added Pin To Net: NetName=JFS23_ECUs Pin=J?_ECUs-3
+Added Net: Name=JFS23_ECUs
+Added Pin To Net: NetName=JFS23_TS Pin=J?_TS-3
+Added Net: Name=JFS23_TS
+Added Pin To Net: NetName=JFS24_ECUs Pin=J?_ECUs-4
+Added Net: Name=JFS24_ECUs
+Added Pin To Net: NetName=JFS24_TS Pin=J?_TS-4
+Added Net: Name=JFS24_TS
+Added Pin To Net: NetName=JFS25_ECUs Pin=J?_ECUs-5
+Added Net: Name=JFS25_ECUs
+Added Pin To Net: NetName=JFS25_TS Pin=J?_TS-5
+Added Net: Name=JFS25_TS
+Added Pin To Net: NetName=JFS26_ECUs Pin=J?_ECUs-6
+Added Net: Name=JFS26_ECUs
+Added Pin To Net: NetName=JFS26_TS Pin=J?_TS-6
+Added Net: Name=JFS26_TS
+Added Pin To Net: NetName=JFS27_ECUs Pin=J?_ECUs-7
+Added Net: Name=JFS27_ECUs
+Added Pin To Net: NetName=JFS27_TS Pin=J?_TS-7
+Added Net: Name=JFS27_TS
+Added Pin To Net: NetName=JFS28_ECUs Pin=J?_ECUs-8
+Added Net: Name=JFS28_ECUs
+Added Pin To Net: NetName=JFS28_TS Pin=J?_TS-8
+Added Net: Name=JFS28_TS
+Added Pin To Net: NetName=JFS29_ECUs Pin=J?_ECUs-9
+Added Net: Name=JFS29_ECUs
+Added Pin To Net: NetName=JFS29_TS Pin=J?_TS-9
+Added Net: Name=JFS29_TS
+Added Pin To Net: NetName=JFS110_ECUs Pin=J?_ECUs-10
+Added Pin To Net: NetName=JFS110_ECUs Pin=J?_ECUs-10
+Added Net: Name=JFS110_ECUs
+Added Pin To Net: NetName=JFS110_TS Pin=J?_TS-10
+Added Pin To Net: NetName=JFS110_TS Pin=J?_TS-10
+Added Net: Name=JFS110_TS
+Added Pin To Net: NetName=JFS111_ECUs Pin=J?_ECUs-11
+Added Pin To Net: NetName=JFS111_ECUs Pin=J?_ECUs-11
+Added Net: Name=JFS111_ECUs
+Added Pin To Net: NetName=JFS111_TS Pin=J?_TS-11
+Added Pin To Net: NetName=JFS111_TS Pin=J?_TS-11
+Added Net: Name=JFS111_TS
+Added Pin To Net: NetName=JFS112_ECUs Pin=J?_ECUs-12
+Added Pin To Net: NetName=JFS112_ECUs Pin=J?_ECUs-12
+Added Net: Name=JFS112_ECUs
+Added Pin To Net: NetName=JFS112_TS Pin=J?_TS-12
+Added Pin To Net: NetName=JFS112_TS Pin=J?_TS-12
+Added Net: Name=JFS112_TS
+Added Pin To Net: NetName=JFS211_ECUs Pin=J?_ECUs-11
+Added Net: Name=JFS211_ECUs
+Added Pin To Net: NetName=JFS211_TS Pin=J?_TS-11
+Added Net: Name=JFS211_TS
+Added Pin To Net: NetName=JFS212_ECUs Pin=J?_ECUs-12
+Added Net: Name=JFS212_ECUs
+Added Pin To Net: NetName=JFS212_TS Pin=J?_TS-12
+Added Net: Name=JFS212_TS
+Added Pin To Net: NetName=JRP1_ECUs Pin=J?_ECUs-1
+Added Pin To Net: NetName=JRP1_ECUs Pin=J?_ECUs-1
+Added Net: Name=JRP1_ECUs
+Added Pin To Net: NetName=JRP1_TS Pin=J?_TS-1
+Added Pin To Net: NetName=JRP1_TS Pin=J?_TS-1
+Added Net: Name=JRP1_TS
+Added Pin To Net: NetName=JRP2_ECUs Pin=J?_ECUs-2
+Added Pin To Net: NetName=JRP2_ECUs Pin=J?_ECUs-2
+Added Net: Name=JRP2_ECUs
+Added Pin To Net: NetName=JRP2_TS Pin=J?_TS-2
+Added Pin To Net: NetName=JRP2_TS Pin=J?_TS-2
+Added Net: Name=JRP2_TS
+Added Pin To Net: NetName=JRP3_ECUs Pin=J?_ECUs-3
+Added Pin To Net: NetName=JRP3_ECUs Pin=J?_ECUs-3
+Added Net: Name=JRP3_ECUs
+Added Pin To Net: NetName=JRP3_TS Pin=J?_TS-3
+Added Pin To Net: NetName=JRP3_TS Pin=J?_TS-3
+Added Net: Name=JRP3_TS
+Added Pin To Net: NetName=JRP4_ECUs Pin=J?_ECUs-4
+Added Pin To Net: NetName=JRP4_ECUs Pin=J?_ECUs-4
+Added Net: Name=JRP4_ECUs
+Added Pin To Net: NetName=JRP4_TS Pin=J?_TS-4
+Added Pin To Net: NetName=JRP4_TS Pin=J?_TS-4
+Added Net: Name=JRP4_TS
+Added Pin To Net: NetName=JRP5_ECUs Pin=J?_ECUs-5
+Added Pin To Net: NetName=JRP5_ECUs Pin=J?_ECUs-5
+Added Net: Name=JRP5_ECUs
+Added Pin To Net: NetName=JRP5_TS Pin=J?_TS-5
+Added Pin To Net: NetName=JRP5_TS Pin=J?_TS-5
+Added Net: Name=JRP5_TS
+Added Pin To Net: NetName=JRP6_ECUs Pin=J?_ECUs-6
+Added Pin To Net: NetName=JRP6_ECUs Pin=J?_ECUs-6
+Added Net: Name=JRP6_ECUs
+Added Pin To Net: NetName=JRP6_TS Pin=J?_TS-6
+Added Pin To Net: NetName=JRP6_TS Pin=J?_TS-6
+Added Net: Name=JRP6_TS
+Added Pin To Net: NetName=JRP7_ECUs Pin=J?_ECUs-7
+Added Pin To Net: NetName=JRP7_ECUs Pin=J?_ECUs-7
+Added Net: Name=JRP7_ECUs
+Added Pin To Net: NetName=JRP7_TS Pin=J?_TS-7
+Added Pin To Net: NetName=JRP7_TS Pin=J?_TS-7
+Added Net: Name=JRP7_TS
+Added Pin To Net: NetName=JRP8_ECUs Pin=J?_ECUs-8
+Added Pin To Net: NetName=JRP8_ECUs Pin=J?_ECUs-8
+Added Net: Name=JRP8_ECUs
+Added Pin To Net: NetName=JRP8_TS Pin=J?_TS-8
+Added Pin To Net: NetName=JRP8_TS Pin=J?_TS-8
+Added Net: Name=JRP8_TS
+Added Pin To Net: NetName=JRP9_ECUs Pin=J?_ECUs-9
+Added Pin To Net: NetName=JRP9_ECUs Pin=J?_ECUs-9
+Added Net: Name=JRP9_ECUs
+Added Pin To Net: NetName=JRP9_TS Pin=J?_TS-9
+Added Pin To Net: NetName=JRP9_TS Pin=J?_TS-9
+Added Net: Name=JRP9_TS
+Added Pin To Net: NetName=JRP10_ECUs Pin=J?_ECUs-10
+Added Pin To Net: NetName=JRP10_ECUs Pin=J?_ECUs-10
+Added Net: Name=JRP10_ECUs
+Added Pin To Net: NetName=JRP10_TS Pin=J?_TS-10
+Added Pin To Net: NetName=JRP10_TS Pin=J?_TS-10
+Added Net: Name=JRP10_TS
+Added Pin To Net: NetName=JRP11_ECUs Pin=J?_ECUs-11
+Added Pin To Net: NetName=JRP11_ECUs Pin=J?_ECUs-11
+Added Net: Name=JRP11_ECUs
+Added Pin To Net: NetName=JRP11_TS Pin=J?_TS-11
+Added Pin To Net: NetName=JRP11_TS Pin=J?_TS-11
+Added Net: Name=JRP11_TS
+Added Pin To Net: NetName=JRP12_ECUs Pin=J?_ECUs-12
+Added Pin To Net: NetName=JRP12_ECUs Pin=J?_ECUs-12
+Added Net: Name=JRP12_ECUs
+Added Pin To Net: NetName=JRP12_TS Pin=J?_TS-12
+Added Pin To Net: NetName=JRP12_TS Pin=J?_TS-12
+Added Net: Name=JRP12_TS
+Added Pin To Net: NetName=JRS11_ECUs Pin=J?_ECUs-1
+Added Net: Name=JRS11_ECUs
+Added Pin To Net: NetName=JRS11_TS Pin=J?_TS-1
+Added Net: Name=JRS11_TS
+Added Pin To Net: NetName=JRS12_ECUs Pin=J?_ECUs-2
+Added Net: Name=JRS12_ECUs
+Added Pin To Net: NetName=JRS12_TS Pin=J?_TS-2
+Added Net: Name=JRS12_TS
+Added Pin To Net: NetName=JRS13_ECUs Pin=J?_ECUs-3
+Added Net: Name=JRS13_ECUs
+Added Pin To Net: NetName=JRS13_TS Pin=J?_TS-3
+Added Net: Name=JRS13_TS
+Added Pin To Net: NetName=JRS14_ECUs Pin=J?_ECUs-4
+Added Net: Name=JRS14_ECUs
+Added Pin To Net: NetName=JRS14_TS Pin=J?_TS-4
+Added Net: Name=JRS14_TS
+Added Pin To Net: NetName=JRS15_ECUs Pin=J?_ECUs-5
+Added Net: Name=JRS15_ECUs
+Added Pin To Net: NetName=JRS15_TS Pin=J?_TS-5
+Added Net: Name=JRS15_TS
+Added Pin To Net: NetName=JRS16_ECUs Pin=J?_ECUs-6
+Added Net: Name=JRS16_ECUs
+Added Pin To Net: NetName=JRS16_TS Pin=J?_TS-6
+Added Net: Name=JRS16_TS
+Added Pin To Net: NetName=JRS17_ECUs Pin=J?_ECUs-7
+Added Net: Name=JRS17_ECUs
+Added Pin To Net: NetName=JRS17_TS Pin=J?_TS-7
+Added Net: Name=JRS17_TS
+Added Pin To Net: NetName=JRS18_ECUs Pin=J?_ECUs-8
+Added Net: Name=JRS18_ECUs
+Added Pin To Net: NetName=JRS18_TS Pin=J?_TS-8
+Added Net: Name=JRS18_TS
+Added Pin To Net: NetName=JRS19_ECUs Pin=J?_ECUs-9
+Added Net: Name=JRS19_ECUs
+Added Pin To Net: NetName=JRS19_TS Pin=J?_TS-9
+Added Net: Name=JRS19_TS
+Added Pin To Net: NetName=JRS21_ECUs Pin=J?_ECUs-1
+Added Net: Name=JRS21_ECUs
+Added Pin To Net: NetName=JRS21_TS Pin=J?_TS-1
+Added Net: Name=JRS21_TS
+Added Pin To Net: NetName=JRS22_ECUs Pin=J?_ECUs-2
+Added Net: Name=JRS22_ECUs
+Added Pin To Net: NetName=JRS22_TS Pin=J?_TS-2
+Added Net: Name=JRS22_TS
+Added Pin To Net: NetName=JRS23_ECUs Pin=J?_ECUs-3
+Added Net: Name=JRS23_ECUs
+Added Pin To Net: NetName=JRS23_TS Pin=J?_TS-3
+Added Net: Name=JRS23_TS
+Added Pin To Net: NetName=JRS24_ECUs Pin=J?_ECUs-4
+Added Net: Name=JRS24_ECUs
+Added Pin To Net: NetName=JRS24_TS Pin=J?_TS-4
+Added Net: Name=JRS24_TS
+Added Pin To Net: NetName=JRS25_ECUs Pin=J?_ECUs-5
+Added Net: Name=JRS25_ECUs
+Added Pin To Net: NetName=JRS25_TS Pin=J?_TS-5
+Added Net: Name=JRS25_TS
+Added Pin To Net: NetName=JRS26_ECUs Pin=J?_ECUs-6
+Added Net: Name=JRS26_ECUs
+Added Pin To Net: NetName=JRS26_TS Pin=J?_TS-6
+Added Net: Name=JRS26_TS
+Added Pin To Net: NetName=JRS27_ECUs Pin=J?_ECUs-7
+Added Net: Name=JRS27_ECUs
+Added Pin To Net: NetName=JRS27_TS Pin=J?_TS-7
+Added Net: Name=JRS27_TS
+Added Pin To Net: NetName=JRS28_ECUs Pin=J?_ECUs-8
+Added Net: Name=JRS28_ECUs
+Added Pin To Net: NetName=JRS28_TS Pin=J?_TS-8
+Added Net: Name=JRS28_TS
+Added Pin To Net: NetName=JRS29_ECUs Pin=J?_ECUs-9
+Added Net: Name=JRS29_ECUs
+Added Pin To Net: NetName=JRS29_TS Pin=J?_TS-9
+Added Net: Name=JRS29_TS
+Added Pin To Net: NetName=JRS110_ECUs Pin=J?_ECUs-10
+Added Net: Name=JRS110_ECUs
+Added Pin To Net: NetName=JRS110_TS Pin=J?_TS-10
+Added Net: Name=JRS110_TS
+Added Pin To Net: NetName=JRS111_ECUs Pin=J?_ECUs-11
+Added Net: Name=JRS111_ECUs
+Added Pin To Net: NetName=JRS111_TS Pin=J?_TS-11
+Added Net: Name=JRS111_TS
+Added Pin To Net: NetName=JRS112_ECUs Pin=J?_ECUs-12
+Added Net: Name=JRS112_ECUs
+Added Pin To Net: NetName=JRS112_TS Pin=J?_TS-12
+Added Net: Name=JRS112_TS
+Added Pin To Net: NetName=JRS210_ECUs Pin=J?_ECUs-10
+Added Net: Name=JRS210_ECUs
+Added Pin To Net: NetName=JRS210_TS Pin=J?_TS-10
+Added Net: Name=JRS210_TS
+Added Pin To Net: NetName=JRS211_ECUs Pin=J?_ECUs-11
+Added Net: Name=JRS211_ECUs
+Added Pin To Net: NetName=JRS211_TS Pin=J?_TS-11
+Added Net: Name=JRS211_TS
+Added Pin To Net: NetName=JRS212_ECUs Pin=J?_ECUs-12
+Added Net: Name=JRS212_ECUs
+Added Pin To Net: NetName=JRS212_TS Pin=J?_TS-12
+Added Net: Name=JRS212_TS
+Added Pin To Net: NetName=Precharge_Coil_1 Pin=J?-6
+Added Pin To Net: NetName=Precharge_Coil_1 Pin=J?-6
+Added Pin To Net: NetName=Precharge_Coil_1 Pin=J?-11
+Added Net: Name=Precharge_Coil_1
+Added Pin To Net: NetName=Precharge_State Pin=J?-14
+Added Pin To Net: NetName=Precharge_State Pin=J?-14
+Added Pin To Net: NetName=Precharge_State Pin=J?-14
+Added Net: Name=Precharge_State
+Added Pin To Net: NetName=Red_LEDs Pin=J?-3
+Added Pin To Net: NetName=Red_LEDs Pin=J?-3
+Added Net: Name=Red_LEDs
+Added Pin To Net: NetName=SC_END_MASTER Pin=J*?-2
+Added Net: Name=SC_END_MASTER
+Added Pin To Net: NetName=SC_End Pin=J*-1
+Added Pin To Net: NetName=SC_End Pin=J*?-1
+Added Pin To Net: NetName=SC_End Pin=J*?-1
+Added Pin To Net: NetName=SC_End Pin=J*?-2
+Added Pin To Net: NetName=SC_End Pin=J?-4
+Added Pin To Net: NetName=SC_End Pin=J?-4
+Added Pin To Net: NetName=SC_End Pin=J?-7
+Added Pin To Net: NetName=SC_End Pin=J?-7
+Added Pin To Net: NetName=SC_End Pin=J?-9
+Added Net: Name=SC_End
+Added Pin To Net: NetName=SC_IN_BSPD Pin=J*?-1
+Added Pin To Net: NetName=SC_IN_BSPD Pin=J*?-1
+Added Pin To Net: NetName=SC_IN_BSPD Pin=J*?-2
+Added Net: Name=SC_IN_BSPD
+Add Net: Net with name "SC_IN_BSPD" already exists
+Added Pin To Net: NetName=SC_IN_MASTER Pin=J*-2
+Added Pin To Net: NetName=SC_IN_MASTER Pin=J*?-1
+Added Pin To Net: NetName=SC_IN_MASTER Pin=J*?-2
+Added Pin To Net: NetName=SC_IN_MASTER Pin=J?-2
+Added Net: Name=SC_IN_MASTER
+Added Pin To Net: NetName=SC_OUT_BSPD Pin=J?-5
+Added Net: Name=SC_OUT_BSPD
+Add Net: Net with name "SC_OUT_BSPD" already exists
+Added Pin To Net: NetName=SC_OUT_MASTER Pin=J*-1
+Added Pin To Net: NetName=SC_OUT_MASTER Pin=J*-2
+Added Pin To Net: NetName=SC_OUT_MASTER Pin=J*?-2
+Added Pin To Net: NetName=SC_OUT_MASTER Pin=J?-3
+Added Net: Name=SC_OUT_MASTER
+Added Pin To Net: NetName=SPI1_MISO_ECUs Pin=J?_ECUs-8
+Added Pin To Net: NetName=SPI1_MISO_ECUs Pin=J?_ECUs-8
+Added Pin To Net: NetName=SPI1_MISO_ECUs Pin=J?_ECUs-8
+Added Net: Name=SPI1_MISO_ECUs
+Added Pin To Net: NetName=SPI1_MISO_TS Pin=J?_TS-8
+Added Pin To Net: NetName=SPI1_MISO_TS Pin=J?_TS-8
+Added Pin To Net: NetName=SPI1_MISO_TS Pin=J?_TS-8
+Added Net: Name=SPI1_MISO_TS
+Added Pin To Net: NetName=SPI1_MOSI_ECUs Pin=J?_ECUs-9
+Added Pin To Net: NetName=SPI1_MOSI_ECUs Pin=J?_ECUs-9
+Added Pin To Net: NetName=SPI1_MOSI_ECUs Pin=J?_ECUs-9
+Added Net: Name=SPI1_MOSI_ECUs
+Added Pin To Net: NetName=SPI1_MOSI_TS Pin=J?_TS-9
+Added Pin To Net: NetName=SPI1_MOSI_TS Pin=J?_TS-9
+Added Pin To Net: NetName=SPI1_MOSI_TS Pin=J?_TS-9
+Added Net: Name=SPI1_MOSI_TS
+Added Pin To Net: NetName=SPI1_SCK_ECUs Pin=J?_ECUs-7
+Added Pin To Net: NetName=SPI1_SCK_ECUs Pin=J?_ECUs-7
+Added Pin To Net: NetName=SPI1_SCK_ECUs Pin=J?_ECUs-7
+Added Net: Name=SPI1_SCK_ECUs
+Added Pin To Net: NetName=SPI1_SCK_TS Pin=J?_TS-7
+Added Pin To Net: NetName=SPI1_SCK_TS Pin=J?_TS-7
+Added Pin To Net: NetName=SPI1_SCK_TS Pin=J?_TS-7
+Added Net: Name=SPI1_SCK_TS
+Added Pin To Net: NetName=TS_OFF Pin=J?-3
+Added Net: Name=TS_OFF
+Add Net: Net with name "TS_OFF" already exists
+Added Pin To Net: NetName=TS_ON Pin=J?-10
+Added Pin To Net: NetName=TS_ON Pin=J?-10
+Added Net: Name=TS_ON
+Added Pin To Net: NetName=USART3_CK_ECUs Pin=J?_ECUs-12
+Added Pin To Net: NetName=USART3_CK_ECUs Pin=J?_ECUs-12
+Added Pin To Net: NetName=USART3_CK_ECUs Pin=J?_ECUs-12
+Added Net: Name=USART3_CK_ECUs
+Added Pin To Net: NetName=USART3_CK_TS Pin=J?_TS-12
+Added Pin To Net: NetName=USART3_CK_TS Pin=J?_TS-12
+Added Pin To Net: NetName=USART3_CK_TS Pin=J?_TS-12
+Added Net: Name=USART3_CK_TS
+Added Pin To Net: NetName=USART3_RX_ECUs Pin=J?_ECUs-11
+Added Pin To Net: NetName=USART3_RX_ECUs Pin=J?_ECUs-11
+Added Pin To Net: NetName=USART3_RX_ECUs Pin=J?_ECUs-11
+Added Net: Name=USART3_RX_ECUs
+Added Pin To Net: NetName=USART3_RX_TS Pin=J?_TS-11
+Added Pin To Net: NetName=USART3_RX_TS Pin=J?_TS-11
+Added Pin To Net: NetName=USART3_RX_TS Pin=J?_TS-11
+Added Net: Name=USART3_RX_TS
+Added Pin To Net: NetName=USART3_TX_ECUs Pin=J?_ECUs-10
+Added Pin To Net: NetName=USART3_TX_ECUs Pin=J?_ECUs-10
+Added Pin To Net: NetName=USART3_TX_ECUs Pin=J?_ECUs-10
+Added Net: Name=USART3_TX_ECUs
+Added Pin To Net: NetName=USART3_TX_TS Pin=J?_TS-10
+Added Pin To Net: NetName=USART3_TX_TS Pin=J?_TS-10
+Added Pin To Net: NetName=USART3_TX_TS Pin=J?_TS-10
+Added Net: Name=USART3_TX_TS
+Added Class: Name=ECUs
+Added Class: Name=Extras
+Added Class: Name=Master
+Added Class: Name=Testbench__PCB
+Added Class: Name=TS
+Added Class: Name=ECUs
